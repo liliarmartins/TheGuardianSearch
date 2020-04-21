@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/item11"
+            android:title="@string/tg_navbar_item1"
+            android:icon="@drawable/star_full"
+            android:orderInCategory="100"
+            app:showAsAction="withText"/>
+    </group>
+    <group>
+        <item android:id="@+id/item12"
+            android:icon="@drawable/question"
+            android:title="@string/tg_navbar_item2"
+            android:orderInCategory="200"
+            app:showAsAction="withText"/>
+    </group>
+</menu>

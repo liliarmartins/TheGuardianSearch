@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Busca no The Guardian</string>
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+    <string name="go_to_tg_news">Pesquisar The Guardian</string>
+    <string name="tg_btn_search">Buscar</string>
+    <string name="tg_toast_no_term">Por favor, entre termo de busca</string>
+    <string name="tg_toast_many_terms">Por favor, entre apenas um termo</string>
+    <string name="tg_snack_starred">Notícia salva</string>
+    <string name="tg_snack_undo_btn">Desfazer</string>
+    <string name="tg_snack_star_remov">Estrela removida</string>
+    <string name="tg_frag_section">Seção</string>
+    <string name="tg_frag_btn_hide">Esconder</string>
+    <string name="tg_navbar_header1">Busca de notícias no The Guardian</string>
+    <string name="tg_navbar_header2">Autora: Lilia Ramalho Martins</string>
+    <string name="tg_navbar_header3">Versão: 1.0</string>
+    <string name="tg_navbar_item1">Notícias salvas</string>
+    <string name="tg_navbar_item2">Ajuda</string>
+    <string name="tg_navbar_item3">Ir para BBC News</string>
+    <string name="tg_navbar_item4">Ir para imagens da Nasa</string>
+    <string name="tg_navbar_item5">Ir para imagens de Satelite</string>
+    <string name="tg_st_news_activity_title">Notícias salvas</string>
+    <string name="tg_remov_dialog_title">Remover estrela desta notícia?</string>
+    <string name="tg_remov_dialog_yes">Sim</string>
+    <string name="tg_remov_dialog_cancel">Cancelar</string>
+    <string name="tg_help_dialog_dismiss">Fechar</string>
+    <string name="tg_help_dialog_title">Ajuda</string>
+    <string name="tg_help_dialog_line1">- Digite um termo para buscar notícia no The Guardian.</string>
+    <string name="tg_help_dialog_line2">- Clique no título da notícia para ver detalhes dela.</string>
+    <string name="tg_help_dialog_line3">- Clique na estrela perto de uma notícia para salvá-la.</string>
+    <string name="tg_help_dialog_line4">- Clique na estrela no topo para ver lista de notícias salvas.</string>
+</resources>

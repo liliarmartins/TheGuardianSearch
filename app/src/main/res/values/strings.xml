@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">The Guardian Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="go_to_tg_news">Search The Guardian</string>
+    <string name="tg_btn_search">Search</string>
+    <string name="tg_toast_no_term">Please, enter search term</string>
+    <string name="tg_toast_many_terms">Please, enter only one term</string>
+    <string name="tg_snack_starred">News saved</string>
+    <string name="tg_snack_undo_btn">Undo</string>
+    <string name="tg_snack_star_remov">Star removed</string>
+    <string name="tg_frag_section">Section</string>
+    <string name="tg_frag_btn_hide">Hide</string>
+    <string name="tg_navbar_header1"> The Guardian news article search</string>
+    <string name="tg_navbar_header2">Author: Lilia Ramalho Martins</string>
+    <string name="tg_navbar_header3">Version: 1.0</string>
+    <string name="tg_navbar_item1">Saved News</string>
+    <string name="tg_navbar_item2">Help</string>
+    <string name="tg_navbar_item3">Go to BBC News</string>
+    <string name="tg_navbar_item4">Go to Nasa Images</string>
+    <string name="tg_navbar_item5">Go to Satellite Images</string>
+    <string name="tg_st_news_activity_title">Starred News</string>
+    <string name="tg_remov_dialog_title">Remove this News from Starred?</string>
+    <string name="tg_remov_dialog_yes">Yes</string>
+    <string name="tg_remov_dialog_cancel">Cancel</string>
+    <string name="tg_help_dialog_dismiss">Close</string>
+    <string name="tg_help_dialog_title">Help</string>
+    <string name="tg_help_dialog_line1">- Type a term to search News in The Guardian.</string>
+    <string name="tg_help_dialog_line2">- Click News title to see its details.</string>
+    <string name="tg_help_dialog_line3">- Click star icon near News to save it.</string>
+    <string name="tg_help_dialog_line4">- Click star icon on top to see the list of saved News.</string>
+</resources>
